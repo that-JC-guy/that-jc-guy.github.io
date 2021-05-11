@@ -4,4 +4,4 @@
 
 layout: home
 ---
-[BOD](https://that-jc-guy.github.io/bod/)!!
+[BOD](https://that-jc-guy.github.io/bod/)
