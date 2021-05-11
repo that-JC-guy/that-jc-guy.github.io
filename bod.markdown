@@ -4,7 +4,7 @@
 
 layout: bod
 ---
-# Board of Directors
+# Meeting Minutes
 This is it.
 
 <!-- authentication scripts -->
