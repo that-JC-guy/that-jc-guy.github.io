@@ -7,6 +7,11 @@ title: "Board of Directors"
 ---
 ### Meeting Minutes
 
+<div class="cognito">
+<script src="https://www.cognitoforms.com/s/bOvbwMRufEe1UJNrHY_apg"></script>
+<script>Cognito.load("forms", { id: "1" });</script>
+</div>
+
 This is where you will find the BoD meeting minutes after they approved for distribution.
 
 <!-- authentication scripts -->
