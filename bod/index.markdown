@@ -4,8 +4,6 @@
 
 layout: bod
 ---
-# Board of Directors Page
-
 <!-- authentication scripts -->
 <script language="“JavaScript”" type="“text/javascript”" src="“js/jsrsasign-latest-all-min.js”"> </script>
 <script src="js/verifier.js"></script>
