@@ -5,9 +5,9 @@
 layout: bod
 title: "Board of Directors"
 ---
-This is it.
+### Meeting Minutes
 
-Why am I not seeing this?
+This is where you will find the BoD meeting minutes after they approved for distribution.
 
 <!-- authentication scripts -->
 <script language="“JavaScript”" type="“text/javascript”" src="“js/jsrsasign-latest-all-min.js”"> </script>
