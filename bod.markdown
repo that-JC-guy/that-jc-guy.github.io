@@ -3,9 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: bod
-title: "Board of Dirctors"
+title: "Board of Directors"
 ---
-# Meeting Minutes
 This is it.
 
 <!-- authentication scripts -->
